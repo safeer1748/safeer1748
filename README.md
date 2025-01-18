@@ -72,7 +72,7 @@
 
 <h2 align="left">📂 Portfolio</h2>
 
-[**View My Portfolio**](https://portfoliosafeer-safeer-muhammads-projects.vercel.app/)
+[**Visit My Portfolio**](https://portfoliosafeer-safeer-muhammads-projects.vercel.app/)
 ###
 
 <h2 align="left">📫 Get in Touch</h2>
