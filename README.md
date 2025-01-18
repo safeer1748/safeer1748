@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer specializing in Frontend Development, passionate about crafting dynamic and responsive web applications.</p>
+<p align="left">A Software Engineer specializing in Frontend Development, passionate about crafting dynamic and responsive web applications.</p>
 
 ###
 
