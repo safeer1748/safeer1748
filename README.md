@@ -6,16 +6,6 @@
 
 ###
 
-<h2 align="left">👀 Profile Views</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/safeer1748/count.svg?"  />
-</div>
-
-###
-
 <h2 align="left">🛠 Tools & Technologies</h2>
 
 ###
@@ -83,5 +73,15 @@
 
 - **Email:** safeerkhan1748@gmail.com
 - **LinkedIn:** [Safeer Muhammad](https://www.linkedin.com/in/safeer-muhammad/)
+
+###
+
+<h2 align="left">👀 Profile Views</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/safeer1748/count.svg?"  />
+</div>
 
 ###
