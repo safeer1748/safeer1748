@@ -2,19 +2,18 @@
 
 ###
 
-<p align="left">A Software Engineer specializing in Frontend Development, passionate about crafting dynamic and responsive web applications.</p>
+<p align="left">I'm a software engineer with over a year of experience building web applications. I specialize in React.js, Next.js, and modern web technologies. My approach combines technical expertise with creative problem-solving to deliver exceptional user experiences. I'm dedicated to writing clean, maintainable code and staying current with industry trends.
+
+I also offer professional graphic design services, including Adobe Photoshop creations. If you're looking for a dedicated professional who delivers high-quality code and innovative solutions, let's connect! </p>
 
 ###
 
-<h2 align="left">👀 Profile Views</h2>
+<h2 align="left">📂 Portfolio</h2>
+
+[**Visit My Portfolio**](https://portfoliosafeer-safeer-muhammads-projects.vercel.app/)
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/safeer1748/count.svg?"  />
-</div>
-
-###
 
 <h2 align="left">🛠 Tools & Technologies</h2>
 
@@ -78,11 +77,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=safeer1748&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<h2 align="left">📂 Portfolio</h2>
-
-[**Visit My Portfolio**](https://portfoliosafeer-safeer-muhammads-projects.vercel.app/)
 ###
 
 <h2 align="left">📫 Get in Touch</h2>
